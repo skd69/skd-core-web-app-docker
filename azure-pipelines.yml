@@ -40,7 +40,7 @@ stages:
         ConnectionType: 'AzureRM'
         azureSubscription: 'Azure Pass - Sponsorship (e3e4efb9-3512-4527-a639-d176ac9fef1a)'
         appType: 'webAppContainer'
-        WebAppName: 'containerwebappred\loacalgit-az104-09a-rg1'
+        WebAppName: 'containerwebappred'
         DockerNameSpace: 'containerreg69.azurecr.io'
         DockerRepository: 'dotnetapp'
         DockerImageTag: 'latest'
